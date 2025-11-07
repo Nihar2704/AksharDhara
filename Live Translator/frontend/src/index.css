@@ -1,0 +1,20 @@
+@import "tailwindcss";
+nav {
+  display: flex;             /* horizontal layout */
+  flex-direction: row;       /* default */
+  justify-content: space-between; /* space between columns */
+  align-items: center;       /* vertically center */
+  padding: 10px 20px;
+}
+
+nav a {
+  flex: 1;                   /* each link takes equal width */
+  text-align: center;         /* center text in its column */
+  color: rgb(131, 92, 7);
+  text-decoration: none;
+  font-weight: bold;
+}
+
+nav a:hover {
+  color: #ff0000;            /* neon hover effect */
+}
