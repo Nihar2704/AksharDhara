@@ -1,0 +1,7 @@
+openai-whisper
+yt-dlp
+soundfile
+librosa
+websockets
+torch
+numpy
