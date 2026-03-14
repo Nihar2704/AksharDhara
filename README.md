@@ -128,13 +128,7 @@ This project directly addresses the challenges of:
 
 ---
 
-## 🗺 Future Roadmap
-- [ ] **Text Simplification:** Integrate LLMs (T5/Llama) to simplify complex sentence structures for low-literacy users.
-- [ ] **Speaker Diarization:** Identify different speakers in a conversation.
-- [ ] **Mobile App:** Port the system to React Native for real-world accessibility.
-- [ ] **Sign Language Integration:** Placeholder for future Video-to-Sign Language conversion.
 
----
 
 ## 🤝 Contributors
 Developed with ❤️ by **Team SemiColons** during **CodeUtsava 9.0**.
